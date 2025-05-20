@@ -1,4 +1,4 @@
-/*
+
 'use client'
 import React, { useState, useEffect } from 'react'
 import Image from 'next/image'
@@ -71,9 +71,9 @@ const Cart = () => {
         router.push(`/checkout?discount=${discountCart}&ship=${shipCart}`)
     }
 
-    return (
+   /* return (
         <>
-            <TopNavOne props="style-one bg-black" slogan="New customers save 10% with the code GET10" />
+            <TopNavOne props="style-one bg-black"  />
             <div id="header" className='relative w-full'>
                 <MenuOne props="bg-transparent" />
                 <Breadcrumb heading='Shopping cart' subHeading='Shopping cart' />
@@ -332,7 +332,7 @@ const Cart = () => {
             </div >
             <Footer />
         </>
-    )
+    )*/
 }
 
-export default Cart*/
+export default Cart
