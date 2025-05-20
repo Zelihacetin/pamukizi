@@ -6,7 +6,7 @@ import * as Icon from "@phosphor-icons/react/dist/ssr";
 
 interface Props {
     props: string;
-   /* slogan: string;*/
+  slogan?: string;
 }
 
 const TopNavOne: React.FC<Props> = ({ props }) => {
