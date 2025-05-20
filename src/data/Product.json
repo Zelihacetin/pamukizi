@@ -1,0 +1,1384 @@
+[
+  {
+    "id": "1",
+    "category": "fashion",
+    "type": "havlu",
+    "subType": "Banyo Havlusu",
+    "name": "Banyo Havlusu",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 4,
+    "price": 45,
+    "originPrice": 55,
+    "brand": "gucci",
+    "sold": 12,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variation": [
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/banyo_havlusu.webp"
+    ],
+    "images": [
+      "/images/product/banyo_havlusu.webp",
+      "/images/product/banyo_havlusu.webp",
+      "/images/product/banyo_havlusu.webp",
+      "/images/product/banyo_havlusu.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "mesh-shirt"
+  },
+  {
+    "id": "2",
+    "category": "fashion",
+    "type": "havlu",
+    "subType": "Banyo Havlusu",
+    "name": "Banyo Havlusu",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 28,
+    "originPrice": 36,
+    "brand": "hermes",
+    "sold": 23,
+    "quantity": 200,
+    "quantityPurchase": 1,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "variation": [
+      {
+        "color": "white",
+        "colorCode": "#F6EFDD",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/banyo_havlusu2.webp"
+    ],
+    "images": [
+      "/images/product/banyo_havlusu2.webp",
+      "/images/product/banyo_havlusu2.webp",
+      "/images/product/banyo_havlusu2.webp",
+      "/images/product/banyo_havlusu2.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "shirt"
+  },
+  {
+    "id": "3",
+    "category": "fashion",
+    "type": "Nevresim Takımı",
+    "subType": "Çift Kişilik Nevresim Takımı",
+    "name": "Çift Kişilik Nevresim Takımı",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 4,
+    "price": 32,
+    "originPrice": 40,
+    "brand": "zara",
+    "sold": 15,
+    "quantity": 80,
+    "quantityPurchase": 1,
+    "sizes": [
+      "freesize"
+    ],
+    "variation": [
+      {
+        "color": "pink",
+        "colorCode": "#F4407D",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/double_duvet_cover_set.webp"
+    ],
+    "images": [
+      "/images/product/double_duvet_cover_set.webp",
+      "/images/product/double_duvet_cover_set.webp",
+      "/images/product/double_duvet_cover_set.webp",
+      "/images/product/double_duvet_cover_set.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "blouse"
+  },
+  {
+    "id": "4",
+    "category": "fashion",
+    "type": "bornoz",
+    "subType": "Aile Bornoz Seti",
+    "name": "Aile Bornoz Seti",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 24,
+    "originPrice": 32,
+    "brand": "adidas",
+    "sold": 14,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variation": [
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "white",
+        "colorCode": "#F6EFDD",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/aile_bornoz_seti.webp"
+    ],
+    "images": [
+      "/images/product/single_duvet_cover_set.webp",
+      "/images/product/single_duvet_cover_set.webp",
+      "/images/product/single_duvet_cover_set.webp",
+      "/images/product/single_duvet_cover_set.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "kimono"
+  },
+  {
+    "id": "5",
+    "category": "fashion",
+    "type": "Nevresim Takımı",
+    "subType": "Tek Kişilik Nevresim Takımı",
+    "name": "Tek Kişilik Nevresim Takımı",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 4,
+    "price": 35,
+    "originPrice": 45,
+    "brand": "gucci",
+    "sold": 21,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "freesize"
+    ],
+    "variation": [
+      {
+        "color": "black",
+        "colorCode": "#1F1F1F",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/single_duvet_cover_set.jpeg"
+    ],
+    "images": [
+      "/images/product/single_duvet_cover_set.jpeg",
+      "/images/product/single_duvet_cover_set.jpeg",
+      "/images/product/single_duvet_cover_set.jpeg",
+      "/images/product/single_duvet_cover_set.jpeg"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "mesh-shirt"
+  },
+  {
+    "id": "6",
+    "category": "fashion",
+    "type": "yorgan",
+    "name": "Yorgan",
+    "gender": "women",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 36,
+    "originPrice": 36,
+    "brand": "hermes",
+    "sold": 19,
+    "quantity": 200,
+    "quantityPurchase": 1,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/yorgan.webp"
+    ],
+    "images": [
+      "/images/product/yorgan.webp",
+      "/images/product/yorgan.webp",
+      "/images/product/yorgan.webp",
+      "/images/product/yorgan.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "shirt"
+  },
+  {
+    "id": "7",
+    "category": "fashion",
+    "type": "peştemal",
+    "name": "Peştemal",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 4,
+    "price": 32,
+    "originPrice": 40,
+    "brand": "zara",
+    "sold": 22,
+    "quantity": 80,
+    "quantityPurchase": 1,
+    "sizes": [
+      "freesize"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "white",
+        "colorCode": "#F6EFDD",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/pestemal.webp"
+
+    ],
+    "images": [
+      "/images/product/pestemal.webp",
+      "/images/product/pestemal.webp",
+      "/images/product/pestemal.webp",
+      "/images/product/pestemal.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "blouse"
+  },
+  {
+    "id": "8",
+    "category": "fashion",
+    "type": "yorgan",
+    "name": "Yorgan",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 24,
+    "originPrice": 32,
+    "brand": "adidas",
+    "sold": 45,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/yorgan2.webp"
+    ],
+    "images": [
+      "/images/product/yorgan2.webp",
+      "/images/product/yorgan2.webp",
+      "/images/product/yorgan2.webp",
+      "/images/product/yorgan2.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "kimono"
+  },
+  {
+    "id": "9",
+    "category": "fashion",
+    "type": "bornoz",
+    "subType": "Tek Kişilik Bornoz",
+    "name": "Tek Kişilik Bornoz",
+    "gender": "women",
+    "new": true,
+    "sale": false,
+    "rate": 4,
+    "price": 35,
+    "originPrice": 45,
+    "brand": "gucci",
+    "sold": 12,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "white",
+        "colorCode": "#F6EFDD",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/tek_kisilik_bornoz.webp"
+    ],
+    "images": [
+      "/images/product/tek_kisilik_bornoz.webp",
+      "/images/product/tek_kisilik_bornoz.webp",
+      "/images/product/tek_kisilik_bornoz.webp",
+      "/images/product/tek_kisilik_bornoz.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "mesh-shirt"
+  },
+  {
+    "id": "10",
+    "category": "fashion",
+    "type": "bornoz",
+    "subType": "Aile Bornoz Seti",
+    "name": "Aile Bornoz Seti",
+    "gender": "women",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 28,
+    "originPrice": 36,
+    "brand": "hermes",
+    "sold": 12,
+    "quantity": 200,
+    "quantityPurchase": 1,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/aile_bornoz_seti1.webp"
+    ],
+    "images": [
+      "/images/product/aile_bornoz_seti1.webp",
+      "/images/product/aile_bornoz_seti1.webp",
+      "/images/product/aile_bornoz_seti1.webp",
+      "/images/product/aile_bornoz_seti1.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "shirt"
+  },
+  {
+    "id": "11",
+    "category": "fashion",
+    "type": "havlu",
+    "subType": "Mutfak Havlusu",
+    "name": "Mutfak Havlusu",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 4,
+    "price": 32,
+    "originPrice": 40,
+    "brand": "zara",
+    "sold": 14,
+    "quantity": 80,
+    "quantityPurchase": 1,
+    "sizes": [
+      "freesize"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "white",
+        "colorCode": "#F6EFDD",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/banyo_havlusu3.webp"
+    ],
+    "images": [
+      "/images/product/banyo_havlusu3.webp",
+      "/images/product/banyo_havlusu3.webp",
+      "/images/product/banyo_havlusu3.webp",
+      "/images/product/banyo_havlusu3.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "blouse"
+  },
+  {
+    "id": "12",
+    "category": "fashion",
+    "type": "yorgan",
+    "name": "Yorgan",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 24,
+    "originPrice": 32,
+    "brand": "adidas",
+    "sold": 17,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/yorgan3.webp"
+    ],
+    "images": [
+      "/images/product/yorgan3.webp",
+      "/images/product/yorgan3.webp",
+      "/images/product/yorgan3.webp",
+      "/images/product/yorgan3.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "kimono"
+  },
+  {
+    "id": "13",
+    "category": "fashion",
+    "type": "peştemal",
+    "name": "Peştemal",
+    "gender": "women",
+    "new": true,
+    "sale": false,
+    "rate": 4,
+    "price": 35,
+    "originPrice": 45,
+    "brand": "gucci",
+    "sold": 39,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/pestemal1.webp"
+    ],
+    "images": [
+      "/images/product/pestemal1.webp",
+      "/images/product/pestemal1.webp",
+      "/images/product/pestemal1.webp",
+      "/images/product/pestemal1.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "mesh-shirt"
+  },
+  {
+    "id": "14",
+    "category": "fashion",
+    "type": "alez",
+    "name": "Alez",
+    "gender": "women",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 28,
+    "originPrice": 36,
+    "brand": "hermes",
+    "sold": 9,
+    "quantity": 200,
+    "quantityPurchase": 1,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/alez.webp"
+    ],
+    "images": [
+      "/images/product/alez.webp",
+      "/images/product/alez.webp",
+      "/images/product/alez.webp",
+      "/images/product/alez.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "shirt"
+  },
+  {
+    "id": "15",
+    "category": "fashion",
+    "type": "havlu",
+    "subType": "Mutfak Havlusu",
+    "name": "Mutfak Havlusu",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 4,
+    "price": 32,
+    "originPrice": 40,
+    "brand": "zara",
+    "sold": 8,
+    "quantity": 80,
+    "quantityPurchase": 1,
+    "sizes": [
+      "freesize"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/mutfak_havlusu.webp"
+    ],
+    "images": [
+      "/images/product/mutfak_havlusu.webp",
+      "/images/product/mutfak_havlusu.webp",
+      "/images/product/mutfak_havlusu.webp",
+      "/images/product/mutfak_havlusu.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "blouse"
+  },
+  {
+    "id": "16",
+    "category": "fashion",
+    "type": "havlu",
+    "subType": "50x90 Havlu",
+    "name": "50*90 Havlu",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 24,
+    "originPrice": 32,
+    "brand": "adidas",
+    "sold": 12,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/50-90_towel.jpg"
+    ],
+    "images": [
+      "/images/product/50-90_towel.jpg",
+      "/images/product/50-90_towel.jpg",
+      "/images/product/50-90_towel.jpg",
+      "/images/product/50-90_towel.jpg"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "kimono"
+  },
+  {
+    "id": "22",
+    "category": "fashion",
+    "type": "havlu",
+    "subType": "50x90 Havlu",
+    "name": "50*90 Havlu",
+    "gender": "men",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 24,
+    "originPrice": 29,
+    "brand": "zara",
+    "sold": 41,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/50-90_towel2.webp"
+    ],
+    "images": [
+      "/images/product/50-90_towel2.webp",
+      "/images/product/50-90_towel2.webp",
+      "/images/product/50-90_towel2.webp",
+      "/images/product/50-90_towel2.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "t-shirt"
+  },
+  {
+    "id": "23",
+    "category": "fashion",
+    "type": "bornoz",
+    "subType": "Aile Bornoz Seti",
+    "name": "Aile Bornoz Seti",
+    "gender": "men",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 15,
+    "originPrice": 25,
+    "brand": "nike",
+    "sold": 15,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/aile_bornoz_seti2.webp"
+    ],
+    "images": [
+      "/images/product/aile_bornoz_seti2.webp",
+      "/images/product/aile_bornoz_seti2.webp",
+      "/images/product/aile_bornoz_seti2.webp",
+      "/images/product/aile_bornoz_seti2.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "t-shirt"
+  },
+  {
+    "id": "17",
+    "category": "fashion",
+    "type": "havlu",
+    "subType": "Mutfak Havlusu",
+    "name": "Mutfak Havlusu",
+    "gender": "women",
+    "new": true,
+    "sale": false,
+    "rate": 4,
+    "price": 35,
+    "originPrice": 45,
+    "brand": "gucci",
+    "sold": 22,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/mutfak_havlusu1.webp"
+    ],
+    "images": [
+      "/images/product/mutfak_havlusu1.webp",
+      "/images/product/mutfak_havlusu1.webp",
+      "/images/product/mutfak_havlusu1.webp",
+      "/images/product/mutfak_havlusu1.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "mesh-shirt"
+  },
+  {
+    "id": "18",
+    "category": "fashion",
+    "type": "havlu",
+    "subType": "50x90 Havlu",
+    "name": "50*90 Havlu",
+    "gender": "women",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 28,
+    "originPrice": 36,
+    "brand": "hermes",
+    "sold": 46,
+    "quantity": 200,
+    "quantityPurchase": 1,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/50-90_towel1.webp"
+    ],
+    "images": [
+      "/images/product/50-90_towel1.webp",
+      "/images/product/50-90_towel1.webp",
+      "/images/product/50-90_towel1.webp",
+      "/images/product/50-90_towel1.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "shirt"
+  },
+  {
+    "id": "19",
+    "category": "fashion",
+    "type": "alez",
+    "name": "Alez",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 4,
+    "price": 32,
+    "originPrice": 40,
+    "brand": "zara",
+    "sold": 42,
+    "quantity": 80,
+    "quantityPurchase": 1,
+    "sizes": [
+      "freesize"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/alez1.webp"
+    ],
+    "images": [
+      "/images/product/alez1.webp",
+      "/images/product/alez1.webp",
+      "/images/product/alez1.webp",
+      "/images/product/alez1.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "blouse"
+  },
+  {
+    "id": "20",
+    "category": "fashion",
+    "type": "paspas",
+    "name": "Paspas",
+    "gender": "women",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 24,
+    "originPrice": 32,
+    "brand": "adidas",
+    "sold": 12,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/paspas1.webp"
+    ],
+    "images": [
+      "/images/product/paspas1.webp",
+      "/images/product/paspas1.webp",
+      "/images/product/paspas1.webp",
+      "/images/product/paspas1.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "kimono"
+  },
+  {
+    "id": "21",
+    "category": "fashion",
+    "type": "paspas",
+    "name": "Paspas",
+    "gender": "men",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 19,
+    "originPrice": 27,
+    "brand": "zara",
+    "sold": 12,
+    "quantity": 100,
+    "quantityPurchase": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "variation": [
+      {
+        "color": "green",
+        "colorCode": "#D2EF9A",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#ECB018",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "color": "purple",
+        "colorCode": "#8684D4",
+        "colorImage": "/images/product/color/48x48.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": [
+      "/images/product/paspas2.webp"
+    ],
+    "images": [
+      "/images/product/paspas2.webp",
+      "/images/product/paspas2.webp",
+      "/images/product/paspas2.webp",
+      "/images/product/paspas2.webp"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "t-shirt"
+  },
+  {
+    "id": "24",
+  "category": "fashion",
+  "type": "bornoz",
+  "subType": "Tek Kişilik Bornoz",
+  "name": "Tek Kişilik Bornoz",
+  "gender": "women",
+  "new": true,
+  "sale": false,
+  "rate": 4,
+  "price": 35,
+  "originPrice": 45,
+  "brand": "gucci",
+  "sold": 12,
+  "quantity": 100,
+  "quantityPurchase": 1,
+  "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL"
+],
+  "variation": [
+  {
+    "color": "green",
+    "colorCode": "#D2EF9A",
+    "colorImage": "/images/product/color/48x48.png",
+    "image": "/images/product/1000x1000.png"
+  },
+  {
+    "color": "red",
+    "colorCode": "#DB4444",
+    "colorImage": "/images/product/color/48x48.png",
+    "image": "/images/product/1000x1000.png"
+  },
+  {
+    "color": "white",
+    "colorCode": "#F6EFDD",
+    "colorImage": "/images/product/color/48x48.png",
+    "image": "/images/product/1000x1000.png"
+  }
+],
+  "thumbImage": [
+  "/images/product/tek_kisilik_bornoz1.webp"
+],
+  "images": [
+  "/images/product/tek_kisilik_bornoz1.webp",
+  "/images/product/tek_kisilik_bornoz1.webp",
+  "/images/product/tek_kisilik_bornoz1.webp",
+  "/images/product/tek_kisilik_bornoz1.webp"
+],
+  "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+  "action": "quick shop",
+  "slug": "mesh-shirt"
+  }
+]
