@@ -34,7 +34,7 @@ export default function HomeFour() {
             <Instagram />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+            {/*<ModalNewsletter />*/}
         </>
     )
 }

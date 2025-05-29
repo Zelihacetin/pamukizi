@@ -32,7 +32,7 @@ export default function HomeEleven() {
             <Brand />
             <Newsletter />
             <Footer />
-            <ModalNewsletter />
+           {/* <ModalNewsletter />*/}
         </>
     )
 }

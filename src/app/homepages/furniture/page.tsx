@@ -36,7 +36,7 @@ export default function HomeFurniture() {
             <Instagram />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+           {/* <ModalNewsletter />*/}
         </>
     )
 }

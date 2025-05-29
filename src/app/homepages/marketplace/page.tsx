@@ -36,7 +36,7 @@ export default function HomeMarketplace() {
             <Benefit props='md:py-[60px] py-10 border-b border-line' />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+         {/*   <ModalNewsletter />*/}
         </>
     )
 }

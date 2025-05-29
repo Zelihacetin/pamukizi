@@ -33,7 +33,7 @@ export default function HomeToys() {
             <Testimonial data={dataTestimonial} limit={4} />
             <NewsInsight data={blogData} start={9} limit={12} />
             <Footer />
-            <ModalNewsletter />
+            {/*<ModalNewsletter />*/}
         </>
     )
 }

@@ -10,7 +10,6 @@ import WhyChooseUs from '@/components/Yoga/WhyChooseUs'
 import FlashSale from '@/components/Yoga/FlashSale'
 import blogData from '@/data/Blog.json'
 import NewsInsight from '@/components/Toys/NewsInsight'
-import Benefit from '@/components/Jewelry/Benefit'
 import dataTestimonial from '@/data/Testimonial.json'
 import Testimonial from '@/components/Yoga/Testimonial'
 import Instagram from '@/components/Yoga/Instagram'
@@ -29,7 +28,6 @@ export default function HomeYoga() {
             <BestSeller data={productData} start={0} limit={6} />
             <Banner />
             <TabFeatures data={productData} start={0} limit={4} />
-            <Benefit props="py-10 bg-surface md:mt-20 mt-10" />
             <WhyChooseUs />
             <FlashSale />
             <NewsInsight data={blogData} start={12} limit={15} />
@@ -37,7 +35,7 @@ export default function HomeYoga() {
             <Instagram />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+            {/*<ModalNewsletter />*/}
         </>
     )
 }

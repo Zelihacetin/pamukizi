@@ -33,7 +33,7 @@ export default function HomeThree() {
             <Instagram />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+            {/*<ModalNewsletter />*/}
         </>
     )
 }

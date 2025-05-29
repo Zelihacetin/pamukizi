@@ -31,7 +31,7 @@ export default function HomeFive() {
             <Instagram />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+         {/*   <ModalNewsletter />*/}
         </>
     )
 }

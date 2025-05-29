@@ -1,5 +1,6 @@
+
 import type { Metadata } from 'next'
-import { Instrument_Sans } from 'next/font/google'
+import { Inter } from 'next/font/google'  // Inter fontu ile değiştirildi
 import '@/styles/styles.scss'
 import GlobalProvider from './GlobalProvider'
 import ModalCart from '@/components/Modal/ModalCart'
@@ -12,29 +13,29 @@ import { countdownTime } from '@/store/countdownTime'
 
 const serverTimeLeft: CountdownTimeType = countdownTime();
 
-const instrument = Instrument_Sans({ subsets: ['latin'] })
+const inter = Inter({ subsets: ['latin'] })  // Inter fontu burada
 
 export const metadata: Metadata = {
   title: 'pamukizi',
 }
 
 export default function RootLayout({
-  children,
-}: {
+                                     children,
+                                   }: {
   children: React.ReactNode
 }) {
   return (
-    <GlobalProvider>
-      <html lang="en">
-        <body className={instrument.className}>
-          {children}
-          <ModalCart serverTimeLeft={serverTimeLeft} />
-          <ModalWishlist />
-          <ModalSearch />
-          <ModalQuickview />
-          <ModalCompare />
+      <GlobalProvider>
+        <html lang="en">
+        <body className={inter.className}> {/* inter kullanılıyor */}
+        {children}
+        <ModalCart serverTimeLeft={serverTimeLeft} />
+        <ModalWishlist />
+        <ModalSearch />
+        <ModalQuickview />
+        <ModalCompare />
         </body>
-      </html>
-    </GlobalProvider>
+        </html>
+      </GlobalProvider>
   )
 }

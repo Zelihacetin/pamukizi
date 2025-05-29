@@ -34,7 +34,7 @@ export default function HomeSeven() {
             <Instagram />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+           {/* <ModalNewsletter />*/}
         </>
     )
 }

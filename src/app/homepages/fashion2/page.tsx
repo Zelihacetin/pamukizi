@@ -29,7 +29,7 @@ export default function HomeTwo() {
             <Instagram />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+           {/* <ModalNewsletter />*/}
         </>
     )
 }

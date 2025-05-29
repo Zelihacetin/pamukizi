@@ -39,7 +39,8 @@ export default function HomeCosmeticOne() {
             <Instagram />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+            {/* <ModalNewsletter /> */}
+
         </>
     )
 }

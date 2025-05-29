@@ -32,7 +32,7 @@ export default function HomeOrganic() {
             <Benefit props="md:pb-20 pb-10" />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+          {/*  <ModalNewsletter />*/}
         </>
     )
 }

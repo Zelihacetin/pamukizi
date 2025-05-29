@@ -32,7 +32,7 @@ export default function HomeNine() {
             <NewsInsight data={blogData} start={0} limit={3} />
             <Brand />
             <Footer />
-            <ModalNewsletter />
+            {/*<ModalNewsletter />*/}
         </>
     )
 }
